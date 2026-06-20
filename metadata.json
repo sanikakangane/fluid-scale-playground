@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Fluid Type Playground",
+  "description": "A Gen-Z styled fluid typography helper with live font rendering, clamp calculation, contrast auditing, and responsive canvas tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
