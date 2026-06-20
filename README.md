@@ -1,1 +1,1 @@
-# Typography typeface fluil-scale playgroud
+# Typography typeface fluid-scale playgroud
