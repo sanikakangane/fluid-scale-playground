@@ -201,7 +201,7 @@ Through this project, I explored:
 ## Course Information
 
 **Course:** React JS  
-**Project Type:** Frontend Development Case Study  
+**Project Type:** React JS Case Study  
 **Technology Stack:** React JS, JavaScript, CSS3, Vite
 
 ---
