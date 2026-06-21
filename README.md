@@ -1,16 +1,16 @@
-# 🎨 Typography Typeface Fluid-Scale Playground
+# Typography Typeface Fluid-Scale Playground
 
 A modern ReactJS application for creating responsive typography systems using CSS `clamp()`, viewport units (`vw`), and modular scale ratios. The playground enables designers and developers to visualize, customize, and export fluid typography values in real-time without relying on complex media queries.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 https://fluid-scale-playground.vercel.app
 
 ---
 
-## 📖 Project Description
+## Project Description
 
 Typography is one of the most important aspects of responsive web design. Traditional approaches often require multiple media queries to manage text sizes across different devices.
 
@@ -20,7 +20,7 @@ The application provides an interactive environment for experimenting with typog
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React JS
@@ -46,7 +46,7 @@ The application provides an interactive environment for experimenting with typog
 
 ---
 
-## ✨ Features
+## Features
 
 - Fluid Typography Generation using CSS `clamp()`
 - Real-Time Responsive Preview Canvas
@@ -64,7 +64,7 @@ The application provides an interactive environment for experimenting with typog
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="2549" height="1435" alt="hero-section" src="https://github.com/user-attachments/assets/8f0f78fe-4866-4e84-a88d-b8a45d800dcf" />
 
@@ -74,11 +74,9 @@ The application provides an interactive environment for experimenting with typog
 
 <img width="2529" height="1434" alt="compiler-terminal" src="https://github.com/user-attachments/assets/833658ef-dd28-460f-85ad-6bcfba5af114" />
 
-
-
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -118,7 +116,7 @@ npm run preview
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 fluid-scale-playground/
@@ -151,7 +149,7 @@ fluid-scale-playground/
 
 ---
 
-## 🎯 Key Concepts Implemented
+## Key Concepts Implemented
 
 - React Component Architecture
 - State Management with Hooks
@@ -166,7 +164,7 @@ fluid-scale-playground/
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I explored:
 
@@ -181,7 +179,7 @@ Through this project, I explored:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Dark Mode Support
 - More Typography Presets
@@ -193,7 +191,7 @@ Through this project, I explored:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Sanika Gorakhnath Kangane**
 
@@ -201,7 +199,7 @@ Frontend Developer | React Enthusiast
 
 ---
 
-## 📚 Course Information
+## Course Information
 
 **Course:** React JS  
 **Project Type:** Frontend Development Case Study  
@@ -209,6 +207,6 @@ Frontend Developer | React Enthusiast
 
 ---
 
-## 📝 Acknowledgement
+## Acknowledgement
 
 This project demonstrates the practical application of React JS, component-based architecture, state management, and responsive design principles. The implementation focuses on building a fluid typography system that enables real-time customization, visualization, and generation of scalable typography for modern web interfaces.
