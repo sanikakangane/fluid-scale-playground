@@ -196,8 +196,6 @@ Through this project, I explored:
 
 **Sanika Gorakhnath Kangane**
 
-Frontend Developer | React Enthusiast
-
 ---
 
 ## Course Information
