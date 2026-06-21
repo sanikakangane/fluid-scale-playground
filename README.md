@@ -68,11 +68,13 @@ The application provides an interactive environment for experimenting with typog
 
 <img width="2549" height="1435" alt="hero-section" src="https://github.com/user-attachments/assets/8f0f78fe-4866-4e84-a88d-b8a45d800dcf" />
 
+<img width="2524" height="1436" alt="control-panel" src="https://github.com/user-attachments/assets/9ff94112-790b-4fed-8ac8-61e77b706ff2" />
+
 <img width="2526" height="1440" alt="specimen-sheet" src="https://github.com/user-attachments/assets/40c51f89-a747-4a7e-8a19-346a01c61980" />
 
 <img width="2529" height="1434" alt="compiler-terminal" src="https://github.com/user-attachments/assets/833658ef-dd28-460f-85ad-6bcfba5af114" />
 
-<img width="2524" height="1436" alt="control-panel" src="https://github.com/user-attachments/assets/9ff94112-790b-4fed-8ac8-61e77b706ff2" />
+
 
 ---
 
