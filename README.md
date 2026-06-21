@@ -1,4 +1,4 @@
-# Typography Typeface Fluid-Scale Playground <img width="622" height="637" alt="mini-logo" src="https://github.com/user-attachments/assets/11095a0d-4286-474c-a74f-de25355bda57" />
+# Typography Typeface Fluid-Scale Playground <img width="100" height="115" alt="mini-logo" src="https://github.com/user-attachments/assets/11095a0d-4286-474c-a74f-de25355bda57" />
 
 
 A modern ReactJS application for creating responsive typography systems using CSS `clamp()`, viewport units (`vw`), and modular scale ratios. The playground enables designers and developers to visualize, customize, and export fluid typography values in real-time without relying on complex media queries.
